@@ -21,7 +21,7 @@ def sort(arr):
     
     # Analysis
     # T(n) = 1 + 2 + ... + n - 1
-    # => O(n) = n^2
+    # O(n) = n^2
 
 class SelectionSortTest(unittest.TestCase):
     # Given
